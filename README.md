@@ -360,7 +360,8 @@ _Keep up with the latest news and updates, 280 characters at a time!_
 _Valuable links, that don't fit in any of the above categories (yet!)._
 
 - [Room Assistant](https://github.com/mKeRix/room-assistant) - A companion client to handle sensors in multiple rooms.
-- [Home Assistant Companion](https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8) - iPhone/iPad/iOS App to control and monitor your home remotely.
+- [Home Assistant Companion iOS](https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8) - Official iPhone/iPad/iOS App to control and monitor your home remotely.
+- [Home Assistant Companion Android](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android) - Official Android app to control and monitor your home remotely.
 - [Mi Flora via MQTT daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Collect and transfer Xiaomi Mi Flora plant sensor data via MQTT.
 - [hassctl](https://github.com/dale3h/hassctl) - Simple command line utility to help debug your configuration.
 - [rhasspy](https://github.com/rhasspy/rhasspy) - Toolkit for developing custom voice assistants.
